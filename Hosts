@@ -4,7 +4,7 @@
 # Malvertising List by Disconnect
 # Easy List Sophos
 # Spybot Anti-Beacon List 
-# Nivida Telemtry
+# Nivida Telemetry
 
 # 01/07/2023
 
@@ -23499,7 +23499,7 @@
 0.0.0.0	spynet2.microsoft.com
 0.0.0.0	spynetalt.microsoft.com
 
-# Nivida Telemtry
+# Nivida Telemetry
 
 0.0.0.0 gfswl.geforce.com
 0.0.0.0 telemetry.nvidia.com
