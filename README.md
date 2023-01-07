@@ -1,11 +1,11 @@
 A combination of Host Files I gathered from different sources.
 
-# Ad Filter List by Disconnect
-# Basic Tracking List by Disconnect
-# Disconnect Malware List
-# Malvertising List by Disconnect
-# Easy List Sophos
-# Spybot Anti-Beacon List 
-# Nivida Telemtry
+1. Ad Filter List by Disconnect
+2. Basic Tracking List by Disconnect
+3. Disconnect Malware List
+4. Malvertising List by Disconnect
+5. Easy List Sophos
+6. Spybot Anti-Beacon List 
+7. Nivida Telemtry
 
-# 01/07/2023
+01/07/2023
