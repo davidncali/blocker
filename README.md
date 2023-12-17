@@ -8,7 +8,8 @@ A combination of Host Files I gathered from different sources.
 6. Spybot Anti-Beacon List 
 7. Nivida Telemtry
 8. Some (very litle) Telemetry from Windows Connected User Experiences, Windows Telemetry, Windows Unclassified and Windows Office
-9. Apple Telemetry        
+9. Apple Telemetry
+10. adaway.org Telemetry      
         
           
 02/14/2023
