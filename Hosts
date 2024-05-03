@@ -23868,6 +23868,82 @@
 0.0.0.0	spynet2.microsoft.com
 0.0.0.0	spynetalt.microsoft.com
 
+0.0.0.0	oca.telemetry.microsoft.com # managed by privacy.sexy
+0.0.0.0	oca.microsoft.com # managed by privacy.sexy
+0.0.0.0	kmwatsonc.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	watson.telemetry.microsoft.com # managed by privacy.sexy
+0.0.0.0	umwatsonc.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	ceuswatcab01.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	ceuswatcab02.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	eaus2watcab01.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	eaus2watcab02.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	weus2watcab01.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	weus2watcab02.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	co4.telecommand.telemetry.microsoft.com # managed by privacy.sexy
+0.0.0.0	cs11.wpc.v0cdn.net # managed by privacy.sexy
+0.0.0.0	cs1137.wpc.gammacdn.net # managed by privacy.sexy
+0.0.0.0	modern.watson.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	functional.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	browser.events.data.msn.com # managed by privacy.sexy
+0.0.0.0	self.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	v10.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	v10c.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	us-v10c.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	eu-v10c.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	v10.vortex-win.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	vortex-win.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	telecommand.telemetry.microsoft.com # managed by privacy.sexy
+0.0.0.0	www.telecommandsvc.microsoft.com # managed by privacy.sexy
+0.0.0.0	umwatson.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	watsonc.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	eu-watsonc.events.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	settings-win.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	settings.data.microsoft.com # managed by privacy.sexy
+0.0.0.0	inference.location.live.net # managed by privacy.sexy
+0.0.0.0	location-inference-westus.cloudapp.net # managed by privacy.sexy
+0.0.0.0	maps.windows.com # managed by privacy.sexy
+0.0.0.0	ecn.dev.virtualearth.net # managed by privacy.sexy
+0.0.0.0	ecn-us.dev.virtualearth.net # managed by privacy.sexy
+0.0.0.0	weathermapdata.blob.core.windows.net # managed by privacy.sexy
+0.0.0.0	arc.msn.com # managed by privacy.sexy
+0.0.0.0	ris.api.iris.microsoft.com # managed by privacy.sexy
+0.0.0.0	api.msn.com # managed by privacy.sexy
+0.0.0.0	assets.msn.com # managed by privacy.sexy
+0.0.0.0	c.msn.com # managed by privacy.sexy
+0.0.0.0	g.msn.com # managed by privacy.sexy
+0.0.0.0	ntp.msn.com # managed by privacy.sexy
+0.0.0.0	srtb.msn.com # managed by privacy.sexy
+0.0.0.0	www.msn.com # managed by privacy.sexy
+0.0.0.0	fd.api.iris.microsoft.com # managed by privacy.sexy
+0.0.0.0	staticview.msn.com # managed by privacy.sexy
+0.0.0.0	mucp.api.account.microsoft.com # managed by privacy.sexy
+0.0.0.0	query.prod.cms.rt.microsoft.com # managed by privacy.sexy
+0.0.0.0	business.bing.com # managed by privacy.sexy
+0.0.0.0	c.bing.com # managed by privacy.sexy
+0.0.0.0	th.bing.com # managed by privacy.sexy
+0.0.0.0	edgeassetservice.azureedge.net # managed by privacy.sexy
+0.0.0.0	c-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	fp.msedge.net # managed by privacy.sexy
+0.0.0.0	I-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	s-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	dual-s-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	creativecdn.com # managed by privacy.sexy
+0.0.0.0	r.bing.com # managed by privacy.sexy
+0.0.0.0	a-ring-fallback.msedge.net # managed by privacy.sexy
+0.0.0.0	fp-afd-nocache-ccp.azureedge.net # managed by privacy.sexy
+0.0.0.0	prod-azurecdn-akamai-iris.azureedge.net # managed by privacy.sexy
+0.0.0.0	widgetcdn.azureedge.net # managed by privacy.sexy
+0.0.0.0	widgetservice.azurefd.net # managed by privacy.sexy
+0.0.0.0	fp-vs.azureedge.net # managed by privacy.sexy
+0.0.0.0	ln-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	t-ring.msedge.net # managed by privacy.sexy
+0.0.0.0	t-ring-fdv2.msedge.net # managed by privacy.sexy
+0.0.0.0	tse1.mm.bing.net # managed by privacy.sexy
+0.0.0.0	config.edge.skype.com # managed by privacy.sexy
+0.0.0.0	evoke-windowsservices-tas.msedge.net # managed by privacy.sexy
+0.0.0.0	cdn.onenote.net # managed by privacy.sexy
+0.0.0.0	tile-service.weather.microsoft.com # managed by privacy.sexy
+
 # Nivida Telemetry
 
 0.0.0.0 gfswl.geforce.com
