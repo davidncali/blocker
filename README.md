@@ -12,4 +12,4 @@ A combination of Host Files I gathered from different sources.
 10. adaway.org Telemetry      
         
           
-02/14/2023
+05/07/2023
